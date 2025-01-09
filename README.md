@@ -1,0 +1,1 @@
+This is a repository for my previous work in physics modeling. The courses associated with these projects were an introduction to python in Jupiter Labs and an Introduction to Euylers Method and Numerical Calculus.
